@@ -1,0 +1,20 @@
+{
+  "name": "dropcsv",
+  "version": "0.0.0",
+  "homepage": "https://github.com/theptrk/dropcsv",
+  "authors": [
+    "theptrk <patrick.tran06@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.10",
+    "jquery": "~2.1.1"
+  }
+}
